@@ -94,9 +94,9 @@ This application demonstrates:
 ---
 
 ## 📷 Screenshots
-<img width="1080" height="2400" alt="Screenshot_20260302_154056" src="https://github.com/user-attachments/assets/2c05f852-3b3d-4c0c-afc9-a5b9852b9b99" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9945b903-64e4-4d63-82a9-10e6355df540" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/f92c298a-62fd-4e0f-8429-3c5b5b0051e9" />
+<img width="1080" height="1400" alt="Screenshot_20260302_154056" src="https://github.com/user-attachments/assets/2c05f852-3b3d-4c0c-afc9-a5b9852b9b99" />
+<img width="1080" height="1400" alt="image" src="https://github.com/user-attachments/assets/9945b903-64e4-4d63-82a9-10e6355df540" />
+<img width="1080" height="1400" alt="image" src="https://github.com/user-attachments/assets/f92c298a-62fd-4e0f-8429-3c5b5b0051e9" />
 
 ---
 
